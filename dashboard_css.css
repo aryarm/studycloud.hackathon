@@ -1,0 +1,38 @@
+#header{
+	text-align: center;
+	background-color: #03A9F4;
+	margin: 0;
+	padding: 10px;
+	font-size: 50px;
+
+}
+
+body{
+	background-color: #EDEDED;
+	margin: 0;
+}
+
+tbody{
+	text-align: center;
+
+}
+
+th, td{ 
+	padding: 10px;
+	font-size: 20px;	
+}
+
+table{
+	width: 100%;
+}
+
+td button{
+	
+	font-size: 15px;
+}
+
+tr{
+
+	border: 1px solid black;
+
+}
