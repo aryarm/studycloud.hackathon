@@ -15,7 +15,7 @@
 			Email: 
 			<input type="email" name="email" required>
 			<br>
-			<!-- PUT OPTIONS AND SELECT TAGS TO MAKE IT A DROPDOWN -->
+			<!-- At a later time, make sure that they didn't select select as the option because that would be bad -->
 			Grade: 
 			<select name="grade" required>
 			  <option value="">Select...</option>
