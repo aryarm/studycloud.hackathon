@@ -19,9 +19,7 @@
 	</p>
  -->
 
- 	<h1 id = "header"> 
- 		Admin Dashboard
- 	</h1>
+ 	<h1 id = "header">Admin Dashboard</h1>
 
  	<div id="real_dashboard"></div>
 

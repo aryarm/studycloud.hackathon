@@ -1,6 +1,6 @@
 INSERT INTO `new_schools` (`schoolid`, `name`, `ticket`, `fname`, `lname`, `email`, `grade`, `password`) VALUES (NULL, 'Harvey Mudd College', 'hmc', 'Andrew', 'Pham', 'ampham@g.hmc.edu', '12', '5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8')
 
-SELECT name, ticket, fname, lname, email, grade FROM `new_schools`
+SELECT schoolid, name, ticket, fname, lname, email, grade FROM `new_schools`
 
 UPDATE `new_schools` SET `fname` = 'Andre' WHERE `new_schools`.`schoolid` = 1
 
