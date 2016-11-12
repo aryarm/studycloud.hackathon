@@ -4,10 +4,20 @@
 	<title>Admin Dashboard</title>
 </head>
 <body>
-	<button id="fNameLink">lol look at me i'm a div</button>
-	<p id="fNameContent">lol it's a p why do i keep saying lol</p>
+	<button id="fNameLink">FNAME</button>
+	<p id="fNameContent">
+		<form action="" method="post">
+			First Name: 
+			<input type="text" name="fName">
+			<input type="submit" name="fNameSub">
+			<?php 
+			if(isset($_POST['fNameSub'])) {
+    			echo "Thank you, you have changed your name.";
+			}?>
+		</form>
+	</p>
 
-	<!-- JQUERY STUFFS -->
+	<!-- JQUERY STUFFS (include at end of file bc reasons) -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 	<script src="dashboard.js"></script>
 </body>
