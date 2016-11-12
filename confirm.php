@@ -11,7 +11,7 @@
 	Email: 
 	<?php echo $_GET["email"]; ?>
 	<br>
-	Grade: 
+ 	Grade: 
 	<?php echo $_GET["grade"]; ?>
 	<br>
 	Password: 
@@ -23,6 +23,5 @@
 	<br>
 	School Code:  
 	<?php echo $_GET["schoolTicket"]; ?>
-	<br>
 </body>
 </html>
