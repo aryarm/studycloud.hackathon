@@ -9,6 +9,7 @@
 			<input type="text" name="lName" required>
 			Email: 
 			<input type="email" name="email" required>
+			<!-- PUT OPTIONS AND SELECT TAGS TO MAKE IT A DROPDOWN -->
 			Grade: 
 			<input type="number" name="grade" required>
 			Password: 
