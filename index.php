@@ -1,4 +1,7 @@
 <html>
+<head>
+	<title>Make A New Study Cloud</title>
+</head>
 <body>
 	<!-- The form! I probably shouldn't call this index.php. -->
 	<form action="confirm.php" method="post">
