@@ -1,6 +1,7 @@
 <html>
 <body>
-	<form action="welcome.php" method="get">
+	<!-- The form! I probably shouldn't call this index.php. -->
+	<form action="confirm.php" method="get">
 		<h2>Make A New Study Cloud</h2>
 			First Name: 
 			<input type="text" name="fName" required>
