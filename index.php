@@ -1,6 +1,9 @@
 <html>
 <head>
 	<title>Make A New Study Cloud</title>
+	<!-- Font chosen: Nunito by Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+	<link rel="stylesheet" href="index.css">
 </head>
 <body>
 	<!-- The form! I probably shouldn't call this index.php. -->
