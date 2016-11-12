@@ -17,7 +17,7 @@
 			<br>
 			<!-- PUT OPTIONS AND SELECT TAGS TO MAKE IT A DROPDOWN -->
 			Grade: 
-			<select name="grade">
+			<select name="grade" required>
 			  <option value="">Select...</option>
 			  <option value="1">1</option>
 			  <option value="2">2</option>
